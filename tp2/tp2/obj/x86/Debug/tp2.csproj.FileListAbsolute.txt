@@ -1,0 +1,5 @@
+/Users/Chris_Chevalier/Desktop/tp2/tp2/bin/Debug/tp2.exe
+/Users/Chris_Chevalier/Desktop/tp2/tp2/bin/Debug/tp2.pdb
+/Users/Chris_Chevalier/Desktop/tp2/tp2/obj/x86/Debug/tp2.csproj.CoreCompileInputs.cache
+/Users/Chris_Chevalier/Desktop/tp2/tp2/obj/x86/Debug/tp2.exe
+/Users/Chris_Chevalier/Desktop/tp2/tp2/obj/x86/Debug/tp2.pdb

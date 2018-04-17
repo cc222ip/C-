@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{1075EDE7-4B71-4B51-86C0-F2E6B4CEC452}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP3/Disque.cs">
+    <Files>
+      <File FileName="TP3/Program.cs" Line="11" Column="36" />
+      <File FileName="TP3/Point.cs" Line="45" Column="23" />
+      <File FileName="TP3/Disque.cs" Line="55" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TP3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

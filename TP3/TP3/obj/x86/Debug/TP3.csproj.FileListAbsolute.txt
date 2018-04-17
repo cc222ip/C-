@@ -1,0 +1,5 @@
+/Users/Chris_Chevalier/Desktop/TP3/TP3/bin/Debug/TP3.exe
+/Users/Chris_Chevalier/Desktop/TP3/TP3/bin/Debug/TP3.pdb
+/Users/Chris_Chevalier/Desktop/TP3/TP3/obj/x86/Debug/TP3.csproj.CoreCompileInputs.cache
+/Users/Chris_Chevalier/Desktop/TP3/TP3/obj/x86/Debug/TP3.exe
+/Users/Chris_Chevalier/Desktop/TP3/TP3/obj/x86/Debug/TP3.pdb
